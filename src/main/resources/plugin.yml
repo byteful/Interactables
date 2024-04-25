@@ -1,0 +1,6 @@
+name: Interactables
+version: '${version}'
+main: me.byteful.plugin.interactables.InteractablesPlugin
+api-version: '1.20'
+authors: [ byteful ]
+description: Create visual interaction points throughout your world!
